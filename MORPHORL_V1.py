@@ -7,8 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1GRFa52NQNN55ttEWp8dznaN1biqlK1Xf
 """
 
-# ── Install dependencies ──────────────────────────────────────────────────────
-!pip install -q torch numpy scipy matplotlib seaborn pandas tqdm statsmodels
+'''
+This project was developed using my own research idea and experimental design, 
+with assistance from Claude for coding implementation.
+All core concepts, system architecture, and validation are independently designed and verified.
+
+'''
 
 import numpy as np
 import torch

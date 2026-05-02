@@ -1,0 +1,40 @@
+# 🧠 Turing-Guided Reinforcement Learning
+### Evolving Environments to Improve Agent Learning
+
+---
+
+## 🚀 Overview
+
+This project explores a different paradigm in reinforcement learning:
+
+> **Instead of making the agent smarter, can we make the environment smarter?**
+
+We combine:
+- **Turing reaction-diffusion systems** to generate structured environments  
+- **Genetic Algorithms (GA)** to evolve those environments  
+- **Reinforcement Learning (RL)** to evaluate agent performance  
+
+The result is a framework where the **environment itself becomes a guidance mechanism** for learning.
+
+---
+
+## 💡 Core Idea
+
+Traditional RL assumes a fixed environment.
+
+This project introduces:
+
+> **Environment Optimization for Learning**
+
+The environment is not static — it is **evolved to help the agent perform better**.
+
+A reaction-diffusion (Turing) system generates spatial patterns that:
+- create gradients  
+- organize space  
+- provide local structure  
+
+These patterns act as a **guidance field** for the agent.
+
+---
+
+## ⚙️ System Architecture

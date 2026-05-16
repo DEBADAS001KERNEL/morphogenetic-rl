@@ -1,8 +1,6 @@
 # 🧠 Turing-Guided Reinforcement Learning  
 ### Evolving Environments to Improve Agent Exploration
 
-🔗 **Repository:**  
-👉 https://github.com/DEBADAS001KERNEL/morphogenetic-rl
 
 ---
 
